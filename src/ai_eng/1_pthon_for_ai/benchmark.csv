@@ -1,0 +1,4 @@
+model,accuracy,latency_ms
+model-a,0.92,450
+model-b,0.89,380
+model-c,0.78,120
